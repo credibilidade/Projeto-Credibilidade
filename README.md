@@ -16,3 +16,7 @@ A pasta Redações recebe arquivos e páginas HTML elaboradas pelas redações q
 
 # Tech MVP
 Em agosto de 2017, The Trust Project lançou a primeira fase de seu MVP colaborando com as redações que atuaram como adotantes iniciais, chamado de Tech MVP, ou Protocolo Mínimo Viável. Uma especificação para o MVP está publicada com referências a códigos de marcação schema.org.
+
+A pasta original do Trust Project no Github contendo este conteúdo está <a href="https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/Newsrooms">disponível aqui</a>
+
+
