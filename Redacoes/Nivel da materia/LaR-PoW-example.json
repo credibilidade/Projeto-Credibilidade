@@ -1,0 +1,64 @@
+
+<script type="application/ld+json">
+     {
+         "@context": "http://schema.org",
+         "@type": "ReportageNewsArticle",
+         "mainEntityOfPage": "http://www.repubblica.it/economia/finanza/2017/08/22/news/ue_alt_a_bayer_su_fusione_con_monsanto-173623594/",
+         "headline": "Bayer: “La Ue blocca Bayer sulla fusione con Monsanto",
+         "keywords": "",
+         "datePublished": "2017-08-26T02:37:39.200Z",
+         "dateModified": "2017-08-26T02:42:17.200Z",
+         "printPage": "",
+         "printSection": "",
+         "articleSection": "",
+         "publisher": {
+             "@type": "NewsMediaOrganization",
+             "name": "La Repubblica",
+             "logo": {
+                 "@type": "ImageObject",
+                 "url": "http://www.repstatic.it/cless/main/nazionale/2016-v1/img/home/repubblica-logo.png",
+                 "width": 422,
+                 "height": 90
+             },             
+             "sameAs": ["https://www.facebook.com/larepubblica.it", "https://twitter.com/repubblica" ],
+             "parentOrganization" : {
+                "@type": "NewsMediaOrganization",
+                "name": "Gruppo GEDI SpA",
+                 "logo": {
+                    "@type": "ImageObject",
+                    "url": "http://www.gedispa.it/fileadmin/templates/geresponsive/resources/images/logoEspresso_name.svg",
+                    "width": 190,
+                    "height": 83
+                    }
+             }
+         },
+         "copyrightYear": 2017,
+         "copyrightHolder": {
+             "@type": "NewsMediaOrganization",
+             "name": "La Repubblica",
+             "logo": {
+                 "@type": "ImageObject",
+                 "url": "http://www.repstatic.it/cless/main/nazionale/2016-v1/img/home/repubblica-logo.png",
+                 "width": 422,
+                 "height": 90
+             }
+         },
+         "accountablePerson": {
+             "@type": "Person",
+             "name": "Mario Calabresi",
+             "jobTitle": "Editor in Chief",
+             "sameAs" : "http://autori.gedi.it/profilo/GID_1234567890abcdefg"
+         },
+         "image": {
+             "@type": "ImageObject",
+             "url": "https://www.repstatic.it/content/nazionale/img/2017/08/22/150647669-cbdcb47f-2317-47b6-9e09-02353f2cc7b4.jpg",
+             "width": 300,
+             "height": 300
+         },
+         "author": {
+             "@type": "Person",
+             "name": "Enrico Fabrizio Canardi",
+             "sameAs": "http://autori.gedi.it/profilo/GID_1234567890abcdefg"
+         }
+     }
+</script>
