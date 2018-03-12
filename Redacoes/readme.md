@@ -39,3 +39,5 @@ LaS
 LaR
 
 etc.
+
+A pasta original do Trust Project no Github contendo este conteúdo está <a href="https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/Newsrooms">disponível aqui</a>
