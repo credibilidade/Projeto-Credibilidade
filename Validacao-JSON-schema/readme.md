@@ -17,3 +17,5 @@ Acesse este tutorial em <a href="https://spacetelescope.github.io/understanding-
 # Primeira versão proposta por  Kathryn Jonas
 
 @jonas.
+
+Conteúdo original desta página <a href="https://github.com/TheTrustProjectCode/Trust-Project-Schema.org-Markup-Examples-2017/tree/master/Validation-JSON-schema">disponível aqui</a>
